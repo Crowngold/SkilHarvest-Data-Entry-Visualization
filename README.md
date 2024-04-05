@@ -23,7 +23,7 @@ Exploratory Data Analysis involved exploring the Data to answer some questions a
   - What are the products on peal sales?
 
 ## Data Visualization
-![]([SkilHarvest Data entry dashboard.jpg](https://github.com/Crowngold/SkilHarvest-Data-Entry-Visualization/blob/main/SkilHarvest%20Data%20entry%20dashboard.jpg))
+![](https://github.com/Crowngold/SkilHarvest-Data-Entry-Visualization/blob/main/SkilHarvest%20Data%20entry%20dashboard.jpg)
 
 
 ## Result/Findings
