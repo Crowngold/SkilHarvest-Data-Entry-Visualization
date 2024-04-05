@@ -22,17 +22,8 @@ Exploratory Data Analysis involved exploring the Data to answer some questions a
   - Which product are top sellers
   - What are the products on peal sales?
 
-## Data Analysis
-This is where we include some basic line of code or queries or even some of the DAX expressions used during the analysis
-
-```
-SQL
-
-SELECT *
-FROM Table 1
-WHERE A,B,C = Positive integers
-
-```
+## Data Visualization
+![](SkilHarvest Data entry dashboard.jpg)
 
 ## Result/Findings
   This is where you put insight gotten from the analysis 
