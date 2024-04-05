@@ -18,9 +18,17 @@ The data source is from a data entered on a google sheet during a class. The lin
 ## Data Cleaning and Preparation
 
 Exploratory Data Analysis involved exploring the Data to answer some questions about the Data to answer some questions about the Data such as;
-  - What is the overall sales trend
-  - Which product are top sellers
-  - What are the products on peal sales?
+  - What is the Total count of participants
+  - The distribution of gender by male and female.
+  - The distribution by the level of Education.
+  - The distribution by age range and marital status.
+  - The distribution by country of residence.
+  - The distribution by Occupation and count of occupation.
+
+Our Data Cleaning was done in MS Excel as follows;
+1. The first entry particpant ommitted Country of Residence and Nigeria was entered because Nigeria is observed to have the highest population by country.
+2. In Occupation Column, we have NYSC and Corper representing the same occupation, one value was assumed for both, which is Corper. Student was captured in Sentence case to avoid multiple entry of student with different alphabet case. Business was assumed for Enterpreneurs and businessmen entry. Tutor was assumed for every one in Eductaional line.
+3. 
 
 ## Data Visualization
 ![](https://github.com/Crowngold/SkilHarvest-Data-Entry-Visualization/blob/main/SkilHarvest%20Data%20entry%20dashboard.jpg)
