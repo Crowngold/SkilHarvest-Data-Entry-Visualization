@@ -25,6 +25,7 @@ Exploratory Data Analysis involved exploring the Data to answer some questions a
 ## Data Visualization
 ![](SkilHarvest Data entry dashboard.jpg)
 
+
 ## Result/Findings
   This is where you put insight gotten from the analysis 
 1. The company's sale have been progressively rising from the period of specific time
